@@ -1,0 +1,128 @@
+p {
+  font-family: "Rubik",sans-serif;
+  font-size: 1.5em;
+  line-height: 1.8;
+}
+
+.head {
+  font-size: 18em;
+  font-weight: 500;
+  color: #1071F2;
+  margin: 100px auto 10px;
+  line-height: 100px;
+}
+
+.head1 {
+  font-size: 6em;
+  font-weight: 500;
+  margin: 50px auto;
+  line-height: 100px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.l1,.l2,.l3,.l4,.l5 {
+  line-height: 1;
+  font-weight: 500;
+}
+
+.l1 {
+  font-size: 1.5em;
+}
+
+.l2 {
+  font-size: 1.2em;
+  word-spacing: 2.5px;
+}
+
+.l3 {
+  font-size: 1em;
+  word-spacing: -1.1px;
+}
+
+.l4 {
+  font-size: 0.7em;
+  word-spacing: 0;
+}
+
+.l5 {
+  font-size: 0.6em;
+  word-spacing: 1.6px;
+}
+
+.l5 span {
+  background-color: #1a1a1a;
+  padding: 1px 18em 0;
+}
+
+.shapes div {
+  position: fixed;
+}
+
+.b {
+  background-color: #1071F2;
+  border-color: #1071F2;
+}
+
+.y {
+  background-color: #f3a700;
+  border-color: #f3a700;
+}
+
+.r {
+  background-color: #f90047;
+  border-color: #f90047;
+}
+
+.shape1 {
+  right: 35%;
+  width: 10px;
+  height: 10px;
+}
+
+.shape2 {
+  right: 35%;
+  width: 20px;
+  height: 20px;
+}
+
+.shape3 {
+  left: 25%;
+  width: 30px;
+  height: 30px;
+  background: transparent;
+  border-width: 10px;
+  border-style: solid;
+}
+
+.shape4 {
+  right: 25%;
+  width: 30px;
+  height: 30px;
+  background: transparent;
+  border-width: 15px;
+  border-style: solid;
+}
+
+.shape5 {
+  left: 25%;
+  width: 80px;
+  height: 80px;
+  background: transparent;
+  border-width: 15px;
+  border-style: solid;
+}
+
+
+.shape6 {
+  left: 60%;
+  width: 120px;
+  height: 120px;
+  border-width: 15px;
+  border-radius: 50%;
+  background: transparent;
+  border-style: solid;
+
+}
